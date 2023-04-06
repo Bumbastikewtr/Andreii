@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>PISkA</title>
+</head>
+<body>
+<p>пшёл нах отсюда, чмо</p>
+</body>
+</html>
